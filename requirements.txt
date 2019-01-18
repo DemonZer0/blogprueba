@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Django~=2.1.4
-=======
 django
 gunicorn
 django-heroku
->>>>>>> Commit inicial
+
